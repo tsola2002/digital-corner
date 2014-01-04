@@ -2,8 +2,7 @@
 
 
     	<?php get_search_form(); ?>
-    
-    	<?php wp_list_pages('title_li=<h2>Pages</h2>' ); ?>
+
 
         <div class="row">
 
