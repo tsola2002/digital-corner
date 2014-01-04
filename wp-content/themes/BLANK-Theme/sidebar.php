@@ -22,7 +22,7 @@
                 <?php wp_reset_query(); ?>
             </div><!--end of .widget-->
 
-            <div class="widget industry">
+            <div class="">
                 <h4>Industry News</h4>
                 <!--conditional to check for fetch feed function-->
                 <?php if (function_exists('fetch_feed')) { ?>
