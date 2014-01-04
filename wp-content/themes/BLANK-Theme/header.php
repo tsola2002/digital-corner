@@ -51,7 +51,7 @@
 
 <body <?php body_class(); ?>>
 	
-	<div id="page-wrap container">
+	<div id="page-wrap" class="container">
 
 		<header id="row">
             <div id="logo" class="col col-lg-4"><img src="<?php bloginfo('template_url'); ?>/images/logo.png" alt=""/></div>

@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388857735078" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862105606" ignored="false" />
-    <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388863132933" ignored="false" />
+    <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388863383687" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
+    <file path="/footer.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388863491673" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="80" selection-start="2213" selection-end="2384" vertical-scroll-proportion="0.7816514">
+            <state line="53" column="14" selection-start="1909" selection-end="1909" vertical-scroll-proportion="-12.461538">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="4" selection-start="336" selection-end="336" vertical-scroll-proportion="0.35687023">
               <folding />
             </state>
           </provider>
@@ -69,6 +80,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php" />
       </list>
     </option>
   </component>
@@ -383,7 +395,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="80" selection-start="2213" selection-end="2384" vertical-scroll-proportion="0.7816514">
+        <state line="53" column="14" selection-start="1909" selection-end="1909" vertical-scroll-proportion="-12.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="336" selection-end="336" vertical-scroll-proportion="0.35687023">
           <folding />
         </state>
       </provider>
