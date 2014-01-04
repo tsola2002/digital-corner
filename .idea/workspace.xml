@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" />
     </list>
     <ignored path="digital-corner.iws" />
@@ -33,7 +34,34 @@
       <file leaf-file-name="sidebar.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="14" selection-end="14" vertical-scroll-proportion="0.09357798">
+            <state line="10" column="71" selection-start="198" selection-end="198" vertical-scroll-proportion="0.22709924">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="5" selection-start="965" selection-end="1140" vertical-scroll-proportion="-18.192308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_09_recent/WidgetCorpTheme-1/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="67" selection-start="54" selection-end="109" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_09_recent/WidgetCorpTheme-1/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="2" selection-start="1097" selection-end="1097" vertical-scroll-proportion="-16.23077">
               <folding />
             </state>
           </provider>
@@ -61,6 +89,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" />
       </list>
     </option>
@@ -237,7 +266,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43484625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43484625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -362,9 +391,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_08_navigation/WidgetCorpTheme-1/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.16793893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="5" selection-start="965" selection-end="1140" vertical-scroll-proportion="-18.192308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_09_recent/WidgetCorpTheme-1/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="2" selection-start="1097" selection-end="1097" vertical-scroll-proportion="-16.23077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_09_recent/WidgetCorpTheme-1/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="67" selection-start="54" selection-end="109" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="14" selection-end="14" vertical-scroll-proportion="0.09357798">
+        <state line="10" column="71" selection-start="198" selection-end="198" vertical-scroll-proportion="0.22709924">
           <folding />
         </state>
       </provider>

@@ -8,11 +8,7 @@
 
         <aside class="col col-lg-4">
             <nav>
-                <ul>
-                    <li><a href="#">Our Products <span></span></a></li>
-                    <li><a href="#">About Digital Corner <span></span></a></li>
-                    <li><a href="#">Contact Us <span></span></a></li>
-                </ul>
+                <?php wp_nav_menu(array('menu' => 'Main Nav Menu')); ?>
             </nav>
 
             <div class="widget">
