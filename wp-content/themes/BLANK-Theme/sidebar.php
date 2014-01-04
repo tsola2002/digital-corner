@@ -1,39 +1,62 @@
 <aside>
 
-    <?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Sidebar Widgets')) : else : ?>
-    
-        <!-- All this stuff in here only shows up if you DON'T have any widgets active in this zone -->
 
     	<?php get_search_form(); ?>
     
     	<?php wp_list_pages('title_li=<h2>Pages</h2>' ); ?>
-    
-    	<h2>Archives</h2>
-    	<ul>
-    		<?php wp_get_archives('type=monthly'); ?>
-    	</ul>
-        
-        <h2>Categories</h2>
-        <ul>
-    	   <?php wp_list_categories('show_count=1&title_li='); ?>
-        </ul>
-        
-    	<?php wp_list_bookmarks(); ?>
-    
-    	<h2>Meta</h2>
-    	<ul>
-    		<?php wp_register(); ?>
-    		<li><?php wp_loginout(); ?></li>
-    		<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress</a></li>
-    		<?php wp_meta(); ?>
-    	</ul>
-    	
-    	<h2>Subscribe</h2>
-    	<ul>
-    		<li><a href="<?php bloginfo('rss2_url'); ?>">Entries (RSS)</a></li>
-    		<li><a href="<?php bloginfo('comments_rss2_url'); ?>">Comments (RSS)</a></li>
-    	</ul>
-	
-	<?php endif; ?>
+
+        <div class="row">
+
+        <aside class="col col-lg-4">
+            <nav>
+                <ul>
+                    <li><a href="#">Our Products <span></span></a></li>
+                    <li><a href="#">About Digital Corner <span></span></a></li>
+                    <li><a href="#">Contact Us <span></span></a></li>
+                </ul>
+            </nav>
+
+            <div class="widget">
+                <h4>Latest Blog Post</h4>
+
+                <div class="date">December 28th, 2013</div>
+                <h5>This just in, dont get gremlins wet!!</h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Alias asperiores eius incidunt nam officia perferendis unde?
+                    Dolorum in non repellat saepe voluptatum. Deleniti,
+                    dolore eos facilis libero numquam quas similique?</p>
+
+
+            </div><!--end of .widget-->
+
+            <div class="widget industry">
+                <h4>Industry News</h4>
+
+                <div class="date">December 28th, 2013</div>
+                <h5>this just in, dont get gremlins wet</h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Alias asperiores eius incidunt nam officia perferendis unde?
+                    Dolorum in non repellat saepe voluptatum. Deleniti,
+                    dolore eos facilis libero numquam quas similique?</p>
+            </div><!--end of widget-->
+
+            <div class="widget industry">
+                <h4>latest post</h4>
+
+                <div class="date">December 28th, 2013</div>
+                <h5>This just in, dont get gremlins wet</h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Alias asperiores eius incidunt nam officia perferendis unde?
+                    Dolorum in non repellat saepe voluptatum. Deleniti,
+                    dolore eos facilis libero numquam quas similique?</p>
+            </div><!--end of widget-->
+        </aside><!--end of aside-->
+
+    <?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Sidebar Widgets')) : else : ?>
+
+        <!-- All this stuff in here only shows up if you DON'T have any widgets active in this zone -->
+
+
+    <?php endif; ?>
 
 </aside>
