@@ -172,12 +172,12 @@ nav ul li a span {
     width: 15px;
     height: 100%;
     top: 10px;
-    background-image: url('img/nav_shadow.png');
+    background-image: url('images/nav_shadow.png');
     background-position: right top;
     background-repeat: repeat-y;
 }
 nav ul li a:hover span {
-    background-image: url('img/nav_shadow.png');
+    background-image: url('images/nav_shadow.png');
     background-color: #303338;
 }
 nav ul li:nth-child(2) a,
@@ -185,7 +185,7 @@ nav ul li:nth-child(2) a span {
     background-color: #791515;
 }
 nav ul li:nth-child(2) a:hover span {
-    background-image: url('img/nav_shadow.png');
+    background-image: url('images/nav_shadow.png');
     background-color: #303338;
 }
 nav ul li:nth-child(3) a,
