@@ -24,25 +24,43 @@
 
             <div class="widget industry">
                 <h4>Industry News</h4>
+                <!--conditional to check for fetch feed function-->
+                <?php if (function_exists('fetch_feed')) { ?>
+                    <!--includes the files that enables rss feeds to work-->
+                    <?php include_once(ABSPATH . WPINC . '/feed.php');
 
-                <div class="date">December 28th, 2013</div>
-                <h5>this just in, dont get gremlins wet</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Alias asperiores eius incidunt nam officia perferendis unde?
-                    Dolorum in non repellat saepe voluptatum. Deleniti,
-                    dolore eos facilis libero numquam quas similique?</p>
+                    //retrieve rss feed
+                    $feed = fetch_feed('http://www.topix.com/rss/business/manufacturing');
+
+                    //setting number of rss items to retrieve
+                    $limit = $feed->get_item_quantity(2);
+
+                    //get rss feeds from zero up to specified limit
+                    $items = $feed->get_items(0, $limit);
+
+                    if (!$items) {
+
+                        echo "problem";
+
+                    } else {
+
+                        // everything's cool, now loop through items to display rss feed
+
+                        foreach ($items as $item) { ?>
+
+                            <div class="widget industry">
+                                <p class="date"><?php echo $item->get_date('F j, Y'); ?></p>
+                                <h5><a href="<?php echo $item->get_permalink(); ?>"><?php echo $item->get_title(); ?></a></h5>
+                                <p><?php echo $item->get_content(); ?></p>
+                            </div>
+
+                        <?php }
+
+                    } ?>
+
+                <?php } ?>
             </div><!--end of widget-->
 
-            <div class="widget industry">
-                <h4>latest post</h4>
-
-                <div class="date">December 28th, 2013</div>
-                <h5>This just in, dont get gremlins wet</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Alias asperiores eius incidunt nam officia perferendis unde?
-                    Dolorum in non repellat saepe voluptatum. Deleniti,
-                    dolore eos facilis libero numquam quas similique?</p>
-            </div><!--end of widget-->
         </aside><!--end of aside-->
 
     <?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Sidebar Widgets')) : else : ?>

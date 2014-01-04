@@ -11,7 +11,7 @@
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388863383687" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
     <file path="/footer.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388863491673" ignored="false" />
-    <file path="/sidebar.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388869512113" ignored="false" />
+    <file path="/sidebar.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388872836889" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +34,16 @@
       <file leaf-file-name="sidebar.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="42" selection-start="602" selection-end="602" vertical-scroll-proportion="0.6083499">
+            <state line="60" column="23" selection-start="2108" selection-end="2108" vertical-scroll-proportion="1.2938931">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="sidebar.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_10_external/WidgetCorpTheme-1/sidebar.php">
+        <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_11_homepage/WidgetCorpTheme-1/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="38" selection-start="443" selection-end="469" vertical-scroll-proportion="-13.076923">
+            <state line="42" column="16" selection-start="578" selection-end="1359" vertical-scroll-proportion="-11.653846">
               <folding />
             </state>
           </provider>
@@ -53,24 +53,6 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="39" column="5" selection-start="965" selection-end="1140" vertical-scroll-proportion="-18.192308">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_09_recent/WidgetCorpTheme-1/sidebar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="67" selection-start="54" selection-end="109" vertical-scroll-proportion="-3.2692308">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_09_recent/WidgetCorpTheme-1/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="2" selection-start="1097" selection-end="1097" vertical-scroll-proportion="-16.23077">
               <folding />
             </state>
           </provider>
@@ -105,8 +87,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="511" />
-    <option name="y" value="3" />
+    <option name="x" value="430" />
+    <option name="y" value="26" />
     <option name="width" value="745" />
     <option name="height" value="763" />
   </component>
@@ -268,7 +250,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="511" y="3" width="745" height="763" extended-state="0" />
+    <frame x="430" y="26" width="745" height="763" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -436,9 +418,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_11_homepage/WidgetCorpTheme-1/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="16" selection-start="578" selection-end="1359" vertical-scroll-proportion="-11.653846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="42" selection-start="602" selection-end="602" vertical-scroll-proportion="0.6083499">
+        <state line="60" column="23" selection-start="2108" selection-end="2108" vertical-scroll-proportion="1.2938931">
           <folding />
         </state>
       </provider>
