@@ -51,9 +51,11 @@
 
 <body <?php body_class(); ?>>
 	
-	<div id="page-wrap">
+	<div id="page-wrap container">
 
-		<div id="header">
-			<h1><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
-			<div class="description"><?php bloginfo('description'); ?></div>
-		</div>
+		<header id="row">
+            <div id="logo" class="col col-lg-4"><img src="<?php bloginfo('template_url'); ?>/images/logo.png" alt=""/></div>
+            <div id="stamp" class="col col-lg-6"><img src="<?php bloginfo('template_url'); ?>/images/poster_marks.png" alt=""/></div>
+			<!--<h1><a href="<?php /*echo get_option('home'); */?>/"><?php /*bloginfo('name'); */?></a></h1>
+			<div class="description"><?php /*bloginfo('description'); */?></div>-->
+		</header>

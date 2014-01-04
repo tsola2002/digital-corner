@@ -10,7 +10,6 @@
 
 			<div class="entry">
 				<?php the_content(); ?>
-                <button class="btn btn-info">here we go</button>
 			</div>
 
 			<div class="postmetadata">
