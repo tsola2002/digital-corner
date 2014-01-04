@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/css/theme.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388857735078" ignored="false" />
-    <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388858263001" ignored="false" />
+    <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388861796289" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388861392499" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="314" column="1" selection-start="8062" selection-end="8062" vertical-scroll-proportion="0.0">
+            <state line="404" column="18" selection-start="9800" selection-end="9800" vertical-scroll-proportion="1.8654546">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="4" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.15648855">
+            <state line="36" column="0" selection-start="1202" selection-end="1202" vertical-scroll-proportion="-13.730769">
               <folding />
             </state>
           </provider>
@@ -77,14 +74,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="528" />
-    <option name="y" value="-13" />
+    <option name="x" value="352" />
+    <option name="y" value="18" />
     <option name="width" value="745" />
     <option name="height" value="763" />
   </component>
@@ -272,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="528" y="-13" width="745" height="763" extended-state="0" />
+    <frame x="352" y="18" width="745" height="763" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -370,13 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="314" column="1" selection-start="8062" selection-end="8062" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/shift_cv/cv/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.4615383">
@@ -393,7 +383,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="4" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.15648855">
+        <state line="36" column="0" selection-start="1202" selection-end="1202" vertical-scroll-proportion="-13.730769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="404" column="18" selection-start="9800" selection-end="9800" vertical-scroll-proportion="1.8654546">
           <folding />
         </state>
       </provider>
