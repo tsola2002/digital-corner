@@ -1,7 +1,7 @@
 <aside>
 
 
-    	<?php get_search_form(); ?>
+    	<?php /*get_search_form(); */?>
 
 
         <div class="row">
