@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +43,25 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="25" selection-end="25" vertical-scroll-proportion="0.05851979">
+            <state line="27" column="0" selection-start="674" selection-end="674" vertical-scroll-proportion="0.7900172">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="24" selection-start="668" selection-end="668" vertical-scroll-proportion="-15.692307">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -407,11 +424,6 @@
         <state line="27" column="12" selection-start="574" selection-end="574" vertical-scroll-proportion="-3.8076923" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="24" selection-start="668" selection-end="668" vertical-scroll-proportion="0.09357798" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="5" selection-start="965" selection-end="1140" vertical-scroll-proportion="0.8678899" />
@@ -424,9 +436,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="24" selection-start="668" selection-end="668" vertical-scroll-proportion="-15.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="25" selection-end="25" vertical-scroll-proportion="0.05851979">
+        <state line="27" column="0" selection-start="674" selection-end="674" vertical-scroll-proportion="0.7900172">
           <folding />
         </state>
       </provider>
