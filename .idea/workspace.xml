@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
     </list>
     <ignored path="digital-corner.iws" />
@@ -47,7 +46,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="37" selection-start="493" selection-end="493" vertical-scroll-proportion="0.53212523">
+            <state line="24" column="2" selection-start="448" selection-end="448" vertical-scroll-proportion="0.5041186">
               <folding />
             </state>
           </provider>
@@ -464,7 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="37" selection-start="493" selection-end="493" vertical-scroll-proportion="0.53212523">
+        <state line="24" column="2" selection-start="448" selection-end="448" vertical-scroll-proportion="0.5041186">
           <folding />
         </state>
       </provider>
