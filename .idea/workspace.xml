@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,21 +37,31 @@
       <file leaf-file-name="page-product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="51" selection-end="51" vertical-scroll-proportion="-1.9615384">
+            <state line="27" column="22" selection-start="272" selection-end="272" vertical-scroll-proportion="-17.653847">
               <folding>
-                <element signature="e#10#51#0" expanded="true" />
+                <element signature="e#6#135#0" expanded="true" />
+                <element signature="e#151#192#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-product.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page-product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="30" column="22" selection-start="1072" selection-end="1072" vertical-scroll-proportion="-17.846153">
               <folding>
                 <element signature="e#8#44#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="0" selection-start="2399" selection-end="2399" vertical-scroll-proportion="0.90106004">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,11 +88,11 @@
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php" />
         <option value="$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_10_external/WidgetCorpTheme-1/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" />
       </list>
     </option>
   </component>
@@ -409,24 +420,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="37" selection-start="15" selection-end="46" vertical-scroll-proportion="0.089788735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="11" selection-start="1977" selection-end="1977" vertical-scroll-proportion="0.7007042" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="2" selection-start="448" selection-end="448" vertical-scroll-proportion="0.5881384" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.05851979" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php">
@@ -434,21 +430,43 @@
         <state line="16" column="22" selection-start="203" selection-end="203" vertical-scroll-proportion="0.23407917" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="0" selection-end="73" vertical-scroll-proportion="0.1761658">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="51" selection-end="51" vertical-scroll-proportion="-1.9615384">
+        <state line="27" column="22" selection-start="272" selection-end="272" vertical-scroll-proportion="-17.653847">
           <folding>
-            <element signature="e#10#51#0" expanded="true" />
+            <element signature="e#6#135#0" expanded="true" />
+            <element signature="e#151#192#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="11" selection-start="1977" selection-end="1977" vertical-scroll-proportion="0.69964665">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="30" column="22" selection-start="1072" selection-end="1072" vertical-scroll-proportion="-17.846153">
           <folding>
             <element signature="e#8#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="2399" selection-end="2399" vertical-scroll-proportion="0.90106004">
+          <folding />
         </state>
       </provider>
     </entry>

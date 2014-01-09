@@ -1,4 +1,4 @@
-<aside>
+
 
 
     	<?php /*get_search_form(); */?>
@@ -70,4 +70,3 @@
 
     <?php endif; ?>
 
-</aside>
