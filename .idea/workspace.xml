@@ -37,10 +37,9 @@
       <file leaf-file-name="page-product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="272" selection-end="272" vertical-scroll-proportion="-17.653847">
+            <state line="7" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="-4.576923">
               <folding>
-                <element signature="e#6#135#0" expanded="true" />
-                <element signature="e#151#192#0" expanded="true" />
+                <element signature="e#11#52#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,7 +59,7 @@
       <file leaf-file-name="sidebar.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="0" selection-start="2399" selection-end="2399" vertical-scroll-proportion="0.90106004">
+            <state line="0" column="0" selection-start="0" selection-end="7" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -437,16 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="272" selection-end="272" vertical-scroll-proportion="-17.653847">
-          <folding>
-            <element signature="e#6#135#0" expanded="true" />
-            <element signature="e#151#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="11" selection-start="1977" selection-end="1977" vertical-scroll-proportion="0.69964665">
@@ -463,9 +452,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="-4.576923">
+          <folding>
+            <element signature="e#11#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="0" selection-start="2399" selection-end="2399" vertical-scroll-proportion="0.90106004">
+        <state line="0" column="0" selection-start="0" selection-end="7" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
