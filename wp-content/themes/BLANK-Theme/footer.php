@@ -1,3 +1,5 @@
+</div><!--end of .row(sidebar/content row)-->
+
 </div><!--end of .container-->
 
 <footer class="container">

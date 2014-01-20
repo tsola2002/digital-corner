@@ -32,7 +32,7 @@
 
             <a href="#">Continue Reading &rarr;</a>
 
-        </div>
+        </div><!--end of post1-->
 
         <div class="post">
 
@@ -48,10 +48,12 @@
 
             <a href="#">Continue Reading &rarr;</a>
 
-        </div>
-    </section><!--end of #main-content-->
+        </div><!--end of post2-->
+
+    </section><!--end of #main-content/ .col-lg6-->
+
     <div class="col-lg-2">
 
-    </div>
+    </div><!--end of col-lg-2-->
 
 <?php get_footer(); ?>
