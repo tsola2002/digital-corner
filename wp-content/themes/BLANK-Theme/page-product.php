@@ -16,9 +16,9 @@
     <div class="product-info-box">
         <img src='<?php bloginfo('template_url'); ?>/images/prod-sprocketizer-large.png'/>
         <ul>
-            <li><h5>Price</h5> $519.00</li>
-            <li><h5>Product Code</h5> WGA-998-d</li>
-            <li><h5>Dimensions</h5> 3' x 3'</li>
+            <li><h5>Price</h5><?php echo get_post_meta($post->ID, 'price', true); ?></li>
+            <li><h5>Product Code</h5><?php echo get_post_meta($post->ID, 'product-code', true); ?></li>
+            <li><h5>Dimensions</h5><?php echo get_post_meta($post->ID, 'dimension', true); ?></li>
         </ul>
     </div>
 
