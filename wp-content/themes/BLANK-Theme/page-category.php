@@ -22,48 +22,52 @@
 
 
 <section id="main-content" class="col col-lg-6">
-    <div class='product-group group'>
+    <?php
+        $categoriesCF = get_post_meta($post->ID, "categories", true);
+        // example value = "Sprockets|157,Sprunklers|165"
 
-        <h3><a href='#'>Sprockets</a></h3>
+        $allCategories = explode(",", $categoriesCF);
+        // $allCategories[0] = "Sprockets|157"
+        // $allCategories[1] = "Sprunklers|165"
 
-        <div class="row">
+    foreach ($allCategories as $category) {
+
+        $pieces = explode("|", $category);
+        // $pieces[0] = "Sprockets"
+        // $pieces[1] = 157
+
+        $link = get_permalink($pieces[1]);
+        echo "<div class='product-group group'>";
+        echo "<h3><a href='$link'>" . $pieces[0] . "</a></h3>";
+
+        //products will be published as pages & child pages of categories will be returned
+        query_posts("posts_per_page=-1&post_type=page&post_parent=$pieces[1]");
+
+        echo "<div class='row'>";
+        //based on the results start a standard loop
+        while (have_posts()) : the_post(); ?>
             <div class="col col-lg-3">
-                <a href="#" class="product-jump" title="$519.00">
-                    <img src='_/img/prod-sprocketizer.png' />
-                    <span class="product-title">Mega Sprocketizer</span>
-                    <span class="product-code">WGA-998-d</span>
+                <a href="<?php the_permalink(); ?>" class="product-jump" title="<?php echo "$" . get_post_meta($post->ID, "price", true); ?>" data-large="<?php /*get_post_meta($post->ID, "product_image", true);*/ ?>">
+
+                    <?php echo "<img src='" . get_post_meta($post->ID, "product-regular", true) . "' />"; ?>
+                    <span class="product-title"><?php the_title(); ?></span>
+                    <span class="product-code"><?php echo get_post_meta($post->ID, "product-code", true); ?></span>
+
                 </a>
-            </div>
-            <div class="col col-lg-3 pull-right">
-                <a href="#" class="product-jump" title="$199.99">
-                    <img src='_/img/prod-sprunkler.png' />
-                    <span class="product-title">Super Sprocket 1000</span>
-                    <span class="product-code">WGA-195-c</span>
-                </a>
-            </div>
-        </div>
+            </div><!--end of .col-lg-3-->
+
+        <?php endwhile; wp_reset_query();
+        echo "</div><!--end of .row-->";
+        echo "</div><!--end of .product-group-->";
+
+    };
 
 
+    ?>
 
+    <div class="col-lg-2">
 
-    </div>
-
-    <div class='product-group group'>
-
-        <h3><a href='#'>Sprunklers</a></h3>
-
-        <a href="#" class="product-jump" title="$238.99">
-            <img src='_/img/prod-supersprocket.png' />
-            <span class="product-title">Triple Sprunkler</span>
-            <span class="product-code">ABC-19-hj4</span>
-        </a>
-
-    </div>
-
-</section><!--end of #main-content-->
-<div class="col-lg-2">
-
-</div><!--end of .col-lg-2-->
+    </div><!--end of .col-lg-2-->
 
 <?php get_footer(); ?>
 
