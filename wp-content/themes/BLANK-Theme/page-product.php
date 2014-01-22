@@ -14,7 +14,7 @@
     <h2 class="meta"><?php the_title(); ?></h2>
 
     <div class="product-info-box">
-        <img src='<?php bloginfo('template_url'); ?><?php  echo get_post_meta($post->ID, 'price', true); ?>'/>
+        <img src='<?php bloginfo('template_url'); ?>/images/prod-sprocketizer-large.png'/>
         <ul>
             <li><h5>Price</h5><?php echo get_post_meta($post->ID, 'price', true); ?></li>
             <li><h5>Product Code</h5><?php echo get_post_meta($post->ID, 'product-code', true); ?></li>
