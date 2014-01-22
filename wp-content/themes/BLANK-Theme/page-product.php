@@ -14,7 +14,7 @@
     <h2 class="meta">Mega Sprocketizer</h2>
 
     <div class="product-info-box">
-        <img src='_/img/prod-sprocketizer-large.png'/>
+        <img src='<?php bloginfo('template_url'); ?>/images/prod-sprocketizer-large.png'/>
         <ul>
             <li><h5>Price</h5> $519.00</li>
             <li><h5>Product Code</h5> WGA-998-d</li>

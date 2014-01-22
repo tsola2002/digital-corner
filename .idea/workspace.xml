@@ -7,14 +7,14 @@
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390384800141" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390385105747" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218507688" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218418352" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
     <file path="/footer.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390212596620" ignored="false" />
     <file path="/sidebar.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388872836889" ignored="false" />
     <file path="/home.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390212463635" ignored="false" />
-    <file path="/page-product.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389261747531" ignored="false" />
+    <file path="/page-product.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390385524343" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="page-product.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="37" selection-start="819" selection-end="819" vertical-scroll-proportion="0.6908127">
+            <state line="16" column="83" selection-start="335" selection-end="335" vertical-scroll-proportion="0.4204947">
               <folding />
             </state>
           </provider>
@@ -46,7 +46,16 @@
       <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="51" selection-start="1604" selection-end="1604" vertical-scroll-proportion="-28.384615">
+            <state line="52" column="51" selection-start="1604" selection-end="1604" vertical-scroll-proportion="-28.76923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="108" selection-start="2024" selection-end="2074" vertical-scroll-proportion="-15.230769">
               <folding />
             </state>
           </provider>
@@ -188,6 +197,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="digital-corner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="digital-corner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLANK-Theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -290,7 +325,11 @@
       <created>1390384804200</created>
       <updated>1390384804200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="product page template static content added">
+      <created>1390385109451</created>
+      <updated>1390385109451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -360,7 +399,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="product page template layed out" />
+    <option name="LAST_COMMIT_MESSAGE" value="product page template static content added" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -377,6 +416,7 @@
     <MESSAGE value="screenshot for them replaced &amp; page.php revamped" />
     <MESSAGE value="html tags reordered" />
     <MESSAGE value="product page template layed out" />
+    <MESSAGE value="product page template static content added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -417,11 +457,6 @@
         <state line="14" column="11" selection-start="52" selection-end="1670" vertical-scroll-proportion="0.4204947" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="924" selection-end="924" vertical-scroll-proportion="2.4230769" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ddemo/wp-content/themes/digital_corner/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0724381" />
@@ -456,14 +491,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="51" selection-start="1604" selection-end="1604" vertical-scroll-proportion="-28.384615">
+        <state line="52" column="51" selection-start="1604" selection-end="1604" vertical-scroll-proportion="-28.76923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="108" selection-start="2024" selection-end="2074" vertical-scroll-proportion="-15.230769">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="37" selection-start="819" selection-end="819" vertical-scroll-proportion="0.6908127">
+        <state line="16" column="83" selection-start="335" selection-end="335" vertical-scroll-proportion="0.4204947">
           <folding />
         </state>
       </provider>
