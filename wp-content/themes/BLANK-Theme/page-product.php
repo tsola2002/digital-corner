@@ -11,7 +11,7 @@
 <?php get_sidebar(); the_post(); ?>
 
 <section id="main-content" class="col col-lg-6 col-lg-offset-2">
-    <h2 class="meta">Mega Sprocketizer</h2>
+    <h2 class="meta"><?php the_title(); ?></h2>
 
     <div class="product-info-box">
         <img src='<?php bloginfo('template_url'); ?>/images/prod-sprocketizer-large.png'/>
