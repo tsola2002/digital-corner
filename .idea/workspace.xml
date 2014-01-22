@@ -7,14 +7,14 @@
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390401893772" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390402841591" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218507688" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218418352" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
     <file path="/footer.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390212596620" ignored="false" />
     <file path="/sidebar.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388872836889" ignored="false" />
     <file path="/home.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390212463635" ignored="false" />
-    <file path="/page-product.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390385524343" ignored="false" />
+    <file path="/page-product.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390403597306" ignored="false" />
     <file path="/page-category.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390395386034" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="page-product.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="68" selection-start="336" selection-end="336" vertical-scroll-proportion="0.513308">
+            <state line="16" column="105" selection-start="373" selection-end="373" vertical-scroll-proportion="0.513308">
               <folding>
                 <element signature="e#11#52#0" expanded="true" />
               </folding>
@@ -213,32 +213,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="digital-corner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="digital-corner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BLANK-Theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -381,7 +355,11 @@
       <created>1390401902422</created>
       <updated>1390401902422</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="images made dynamic[2]">
+      <created>1390402844444</created>
+      <updated>1390402844444</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -451,7 +429,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="images made dynamic" />
+    <option name="LAST_COMMIT_MESSAGE" value="images made dynamic[2]" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -478,6 +456,7 @@
     <MESSAGE value="looping through categories" />
     <MESSAGE value="the post added" />
     <MESSAGE value="images made dynamic" />
+    <MESSAGE value="images made dynamic[2]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -521,13 +500,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="108" selection-start="2024" selection-end="2074" vertical-scroll-proportion="-15.230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="45" selection-start="138" selection-end="159" vertical-scroll-proportion="-6.076923">
           <folding />
         </state>
       </provider>
@@ -577,9 +549,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="12" selection-start="310" selection-end="310" vertical-scroll-proportion="0.40304184">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="68" selection-start="336" selection-end="336" vertical-scroll-proportion="0.513308">
+        <state line="16" column="105" selection-start="373" selection-end="373" vertical-scroll-proportion="0.513308">
           <folding>
             <element signature="e#11#52#0" expanded="true" />
           </folding>
