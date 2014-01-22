@@ -23,6 +23,7 @@
 
 <section id="main-content" class="col col-lg-6">
     <?php
+        //grap custom field values
         $categoriesCF = get_post_meta($post->ID, "categories", true);
         // example value = "Sprockets|157,Sprunklers|165"
 
@@ -30,6 +31,7 @@
         // $allCategories[0] = "Sprockets|157"
         // $allCategories[1] = "Sprunklers|165"
 
+    //loop through items twice
     foreach ($allCategories as $category) {
 
         $pieces = explode("|", $category);
