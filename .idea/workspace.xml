@@ -7,7 +7,7 @@
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390385552179" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390387117227" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218507688" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218418352" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
@@ -34,19 +34,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page-product.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page-product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="82" selection-start="528" selection-end="528" vertical-scroll-proportion="0.5106007">
+            <state line="10" column="32" selection-start="114" selection-end="114" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-product.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="page-product.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="36" selection-start="544" selection-end="603" vertical-scroll-proportion="-11.115385">
+            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.008833922">
               <folding />
             </state>
           </provider>
@@ -342,7 +342,11 @@
       <created>1390385557020</created>
       <updated>1390385557020</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="product page template static content added(post meta added)">
+      <created>1390387120374</created>
+      <updated>1390387120374</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -412,7 +416,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="product page template static content added(2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="product page template static content added(post meta added)" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -431,6 +435,7 @@
     <MESSAGE value="product page template layed out" />
     <MESSAGE value="product page template static content added" />
     <MESSAGE value="product page template static content added(2)" />
+    <MESSAGE value="product page template static content added(post meta added)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -512,16 +517,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="36" selection-start="544" selection-end="603" vertical-scroll-proportion="-11.115385">
+        <state line="10" column="32" selection-start="114" selection-end="114" vertical-scroll-proportion="-5.230769">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="82" selection-start="528" selection-end="528" vertical-scroll-proportion="0.5106007">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.008833922">
           <folding />
         </state>
       </provider>

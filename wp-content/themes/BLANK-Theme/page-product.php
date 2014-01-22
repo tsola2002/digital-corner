@@ -8,7 +8,7 @@
 
 <?php get_header(); ?>
 
-<?php get_sidebar(); ?>
+<?php get_sidebar(); the_post(); ?>
 
 <section id="main-content" class="col col-lg-6 col-lg-offset-2">
     <h2 class="meta">Mega Sprocketizer</h2>
