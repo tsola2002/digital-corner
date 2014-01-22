@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390400431787" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390401893772" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218507688" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218418352" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
@@ -35,19 +35,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page-product.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="page-product.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="10" selection-end="52" vertical-scroll-proportion="-1.8846154">
-              <folding />
+            <state line="16" column="68" selection-start="336" selection-end="336" vertical-scroll-proportion="0.513308">
+              <folding>
+                <element signature="e#11#52#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-category.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page-category.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="6" selection-start="2046" selection-end="2046" vertical-scroll-proportion="0.9353612">
+            <state line="64" column="6" selection-start="2046" selection-end="2046" vertical-scroll-proportion="-18.923077">
               <folding>
                 <element signature="e#6#136#0" expanded="true" />
                 <element signature="e#150#193#0" expanded="true" />
@@ -100,14 +102,14 @@
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-213" />
+    <option name="x" value="-30" />
     <option name="y" value="-14" />
     <option name="width" value="904" />
     <option name="height" value="767" />
@@ -375,11 +377,15 @@
       <created>1390400434665</created>
       <updated>1390400434665</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="images made dynamic">
+      <created>1390401902422</created>
+      <updated>1390401902422</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-213" y="-14" width="904" height="767" extended-state="0" />
+    <frame x="-30" y="-14" width="904" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -445,7 +451,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="the post added" />
+    <option name="LAST_COMMIT_MESSAGE" value="images made dynamic" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -471,16 +477,12 @@
     <MESSAGE value="category template displaying" />
     <MESSAGE value="looping through categories" />
     <MESSAGE value="the post added" />
+    <MESSAGE value="images made dynamic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="32" selection-start="344" selection-end="344" vertical-scroll-proportion="-8.5" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/screenshot.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -551,13 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="10" selection-end="52" vertical-scroll-proportion="-1.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_15_blog/WidgetCorpTheme-1/page-category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="20" selection-start="86" selection-end="97" vertical-scroll-proportion="-2.7307692">
@@ -567,10 +562,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="6" selection-start="2046" selection-end="2046" vertical-scroll-proportion="0.9353612">
+        <state line="64" column="6" selection-start="2046" selection-end="2046" vertical-scroll-proportion="-18.923077">
           <folding>
             <element signature="e#6#136#0" expanded="true" />
             <element signature="e#150#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_15_blog/WidgetCorpTheme-1/page-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="68" selection-start="336" selection-end="336" vertical-scroll-proportion="0.513308">
+          <folding>
+            <element signature="e#11#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
