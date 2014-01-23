@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/images/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390496479513" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390498120274" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218507688" ignored="false" />
-    <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390497406083" ignored="false" />
+    <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390498442752" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
     <file path="/footer.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390212596620" ignored="false" />
     <file path="/sidebar.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388872836889" ignored="false" />
@@ -40,7 +39,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="41" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.36925796">
+            <state line="58" column="157" selection-start="2223" selection-end="2223" vertical-scroll-proportion="0.7173145">
               <folding />
             </state>
           </provider>
@@ -397,7 +396,11 @@
       <created>1390496496342</created>
       <updated>1390496496342</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="favicon added">
+      <created>1390498123325</created>
+      <updated>1390498123325</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -467,7 +470,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="single page dynamic content added[comment_link added]" />
+    <option name="LAST_COMMIT_MESSAGE" value="favicon added" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -503,6 +506,7 @@
     <MESSAGE value="single page dynamic content added" />
     <MESSAGE value="single page dynamic content added[styles fixed]" />
     <MESSAGE value="single page dynamic content added[comment_link added]" />
+    <MESSAGE value="favicon added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -606,7 +610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="41" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.36925796">
+        <state line="58" column="157" selection-start="2223" selection-end="2223" vertical-scroll-proportion="0.7173145">
           <folding />
         </state>
       </provider>
