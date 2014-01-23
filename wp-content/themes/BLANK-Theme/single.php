@@ -6,14 +6,13 @@
         </div>
     </div>
 
-    <?php include (TEMPLATEPATH . '/inc/meta.php' ); ?>
 
-    <!--<div class="row">
+    <div class="row">
         <div class="col col-lg-12 meta2">
-            <em>Posted on:</em> April 10th, 2010 &emsp; &emsp;
-            <em>by</em> Omatsola Isaac Sobotie
+            <em>Posted on:</em> <?php the_time('F jS, Y') ?>
+            <em>by</em> <?php the_author() ?>
         </div>
-    </div>-->
+    </div>
 
 <?php get_sidebar(); ?>
 
