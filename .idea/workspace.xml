@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-bloghome.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390403708860" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390491227296" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218507688" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218418352" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
@@ -16,6 +16,7 @@
     <file path="/home.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390212463635" ignored="false" />
     <file path="/page-product.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390403597306" ignored="false" />
     <file path="/page-category.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390395386034" ignored="false" />
+    <file path="/page-bloghome.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390491301870" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,34 +36,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page-product.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
+      <file leaf-file-name="page-bloghome.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-bloghome.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="12" selection-start="371" selection-end="371" vertical-scroll-proportion="0.5106007">
-              <folding>
-                <element signature="e#11#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-category.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="50" selection-start="2038" selection-end="2038" vertical-scroll-proportion="-29.846153">
+            <state line="25" column="22" selection-start="264" selection-end="264" vertical-scroll-proportion="0.7314974">
               <folding>
                 <element signature="e#6#136#0" expanded="true" />
-                <element signature="e#150#193#0" expanded="true" />
+                <element signature="e#147#185#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-category.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_15_blog/WidgetCorpTheme-1/page-category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="20" selection-start="86" selection-end="97" vertical-scroll-proportion="-2.7307692">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -72,6 +53,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="22" selection-start="73" selection-end="73" vertical-scroll-proportion="-3.9230769">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-category.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="5" selection-start="149" selection-end="193" vertical-scroll-proportion="-9.807693">
+              <folding>
+                <element signature="e#6#136#0" expanded="true" />
+                <element signature="e#150#193#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,6 +97,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-bloghome.php" />
       </list>
     </option>
   </component>
@@ -219,11 +213,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
   </component>
   <component name="PublishConfig">
@@ -363,20 +357,23 @@
       <created>1390403712861</created>
       <updated>1390403712861</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="images made dynamic[4]">
+      <created>1390405020913</created>
+      <updated>1390405020913</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2795786" sideWeight="0.99835795" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28444085" sideWeight="0.99835795" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -386,6 +383,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -433,7 +431,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="images made dynamic[3]" />
+    <option name="LAST_COMMIT_MESSAGE" value="images made dynamic[4]" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -462,16 +460,12 @@
     <MESSAGE value="images made dynamic" />
     <MESSAGE value="images made dynamic[2]" />
     <MESSAGE value="images made dynamic[3]" />
+    <MESSAGE value="images made dynamic[4]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/screenshot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ddemo/wp-content/themes/digital_corner/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="11" selection-start="52" selection-end="1670" vertical-scroll-proportion="0.4204947" />
@@ -504,22 +498,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="108" selection-start="2024" selection-end="2074" vertical-scroll-proportion="-15.230769">
-          <folding />
-        </state>
+        <state line="56" column="108" selection-start="2024" selection-end="2074" vertical-scroll-proportion="-15.230769" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="51" selection-start="1604" selection-end="1604" vertical-scroll-proportion="1.3215548">
-          <folding />
+        <state line="52" column="51" selection-start="1604" selection-end="1604" vertical-scroll-proportion="1.3215548" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_15_blog/WidgetCorpTheme-1/page-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="12" selection-start="310" selection-end="310" vertical-scroll-proportion="0.40304184" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_15_blog/WidgetCorpTheme-1/page-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="20" selection-start="86" selection-end="97" vertical-scroll-proportion="-2.7307692" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="371" selection-end="371" vertical-scroll-proportion="0.5106007" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="149" selection-end="193" vertical-scroll-proportion="-9.807693">
+          <folding>
+            <element signature="e#6#136#0" expanded="true" />
+            <element signature="e#150#193#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -530,42 +548,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_15_blog/WidgetCorpTheme-1/page-product.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-bloghome.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_14_category/WidgetCorpTheme-1/page-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="310" selection-end="310" vertical-scroll-proportion="0.40304184">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_15_blog/WidgetCorpTheme-1/page-category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="86" selection-end="97" vertical-scroll-proportion="-2.7307692">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="50" selection-start="2038" selection-end="2038" vertical-scroll-proportion="-29.846153">
+        <state line="25" column="22" selection-start="264" selection-end="264" vertical-scroll-proportion="0.7314974">
           <folding>
             <element signature="e#6#136#0" expanded="true" />
-            <element signature="e#150#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="371" selection-end="371" vertical-scroll-proportion="0.5106007">
-          <folding>
-            <element signature="e#11#52#0" expanded="true" />
+            <element signature="e#147#185#0" expanded="true" />
           </folding>
         </state>
       </provider>
