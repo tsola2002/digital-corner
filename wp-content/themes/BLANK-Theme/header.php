@@ -53,7 +53,7 @@
 	
 	<div id="page-wrap" class="container">
 
-		<header id="row header">
+		<header class="row header">
             <div id="logo" class="col col-lg-4"><img src="<?php bloginfo('template_url'); ?>/images/logo.png" alt=""/></div>
             <div id="stamp" class="col col-lg-6"><img src="<?php bloginfo('template_url'); ?>/images/poster_marks.png" alt=""/></div>
 			<!--<h1><a href="<?php /*echo get_option('home'); */?>/"><?php /*bloginfo('name'); */?></a></h1>

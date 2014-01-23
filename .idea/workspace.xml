@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390495312855" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390495793496" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218507688" ignored="false" />
-    <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1389218418352" ignored="false" />
+    <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390496264739" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
     <file path="/footer.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390212596620" ignored="false" />
     <file path="/sidebar.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388872836889" ignored="false" />
@@ -45,11 +45,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="45" selection-start="356" selection-end="356" vertical-scroll-proportion="0.3523316">
+            <state line="12" column="45" selection-start="356" selection-end="356" vertical-scroll-proportion="-7.8461537">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="21" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.66961133">
+              <folding>
+                <marker date="1390496264049" expanded="true" signature="2235:2399" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,7 +113,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php" />
         <option value="$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_10_external/WidgetCorpTheme-1/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php" />
@@ -112,6 +122,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-bloghome.php" />
         <option value="$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_17_comment/WidgetCorpTheme-1/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
       </list>
     </option>
   </component>
@@ -417,7 +428,11 @@
       <created>1390495319409</created>
       <updated>1390495319409</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="single page dynamic content added">
+      <created>1390495803360</created>
+      <updated>1390495803360</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -487,7 +502,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="single page static content implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="single page dynamic content added" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -520,6 +535,7 @@
     <MESSAGE value="making the home page template" />
     <MESSAGE value="making the home page template(placing dynamic content)" />
     <MESSAGE value="single page static content implemented" />
+    <MESSAGE value="single page dynamic content added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -528,11 +544,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="108" selection-start="2024" selection-end="2074" vertical-scroll-proportion="-15.230769" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -626,8 +637,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="45" selection-start="356" selection-end="356" vertical-scroll-proportion="0.3523316">
+        <state line="12" column="45" selection-start="356" selection-end="356" vertical-scroll-proportion="-7.8461537">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="21" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.66961133">
+          <folding>
+            <marker date="1390496264049" expanded="true" signature="2235:2399" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
