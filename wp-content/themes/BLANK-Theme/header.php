@@ -43,8 +43,10 @@
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
 	
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
+    <link rel="shortcut icon" href="<?php bloginfo('template_url'); ?>/images/favicon.ico"/>
 
-	<?php if ( is_singular() ) wp_enqueue_script('comment-reply'); ?>
+
+    <?php if ( is_singular() ) wp_enqueue_script('comment-reply'); ?>
 
 	<?php wp_head(); ?>
 </head>
