@@ -8,8 +8,8 @@
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390988543430" ignored="false" />
-    <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390989517315" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390989610143" ignored="false" />
+    <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390989938205" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390498442752" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
     <file path="/footer.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390212596620" ignored="false" />
@@ -18,7 +18,7 @@
     <file path="/page-product.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390403597306" ignored="false" />
     <file path="/page-category.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390395386034" ignored="false" />
     <file path="/page-bloghome.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390491301870" ignored="false" />
-    <file path="/comments.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390989437130" ignored="false" />
+    <file path="/comments.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390989852107" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="340" column="16" selection-start="8048" selection-end="8048" vertical-scroll-proportion="0.60661155">
+            <state line="360" column="19" selection-start="8581" selection-end="8581" vertical-scroll-proportion="0.91068304">
               <folding />
             </state>
           </provider>
@@ -68,7 +68,7 @@
       <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/comments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="8" selection-start="2694" selection-end="2694" vertical-scroll-proportion="-15.692307">
+            <state line="87" column="30" selection-start="2923" selection-end="2923" vertical-scroll-proportion="-15.692307">
               <folding />
             </state>
           </provider>
@@ -121,9 +121,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
+    <option name="x" value="492" />
+    <option name="y" value="-14" />
+    <option name="width" value="879" />
     <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -434,11 +434,15 @@
       <created>1390988547296</created>
       <updated>1390988547296</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="styling of comments list[2]">
+      <created>1390989612678</created>
+      <updated>1390989612678</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <frame x="492" y="-14" width="879" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -447,7 +451,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2560778" sideWeight="0.99835795" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38678092" sideWeight="0.99835795" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -504,7 +508,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="styling of comments list" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling of comments list[2]" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -518,7 +522,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="product page template static content added" />
     <MESSAGE value="product page template static content added(2)" />
     <MESSAGE value="product page template static content added(post meta added)" />
     <MESSAGE value="product page template static content added(post loop)" />
@@ -543,6 +546,7 @@
     <MESSAGE value="comments template activated" />
     <MESSAGE value="comments template placed on single page" />
     <MESSAGE value="styling of comments list" />
+    <MESSAGE value="styling of comments list[2]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -623,13 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/comments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="8" selection-start="2694" selection-end="2694" vertical-scroll-proportion="-15.692307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_18_finish/WidgetCorpTheme-1/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="34" selection-start="6464" selection-end="6464" vertical-scroll-proportion="0.0">
@@ -637,9 +634,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="30" selection-start="2923" selection-end="2923" vertical-scroll-proportion="-15.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="340" column="16" selection-start="8048" selection-end="8048" vertical-scroll-proportion="0.60661155">
+        <state line="360" column="19" selection-start="8581" selection-end="8581" vertical-scroll-proportion="0.91068304">
           <folding />
         </state>
       </provider>

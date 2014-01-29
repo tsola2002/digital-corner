@@ -351,3 +351,12 @@ ol.commentlist li.thread-odd { }
     height: 150px;
     font-weight: 400;
 }
+
+#submit-button input{
+    background-color: #791515;
+    -webkit-box-shadow: 0px 4px 0px 0px #be382a;
+    -moz-box-shadow: 0px 4px 0px 0px #be382a;
+    -o-box-shadow: 0px 4px 0px 0px #be382a;
+    box-shadow: 0px 4px 0px 0px #be382a;
+    color: #f7f3f7;
+    }
