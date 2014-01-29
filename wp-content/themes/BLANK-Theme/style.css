@@ -352,6 +352,12 @@ ol.commentlist li.thread-odd { }
     font-weight: 400;
 }
 
+#leave-a-reply textarea:focus {
+  outline: none;
+}
+
+
+
 #submit-button input{
 
     }
