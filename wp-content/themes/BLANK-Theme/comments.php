@@ -81,7 +81,7 @@
 
 		<!--<p>You can use these tags: <code><?php echo allowed_tags(); ?></code></p>-->
 
-		<div>
+		<div id="leave-a-reply">
 			<textarea name="comment" id="comment" cols="58" rows="10" tabindex="4"></textarea>
 		</div>
 
