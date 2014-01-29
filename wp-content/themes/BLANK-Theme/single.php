@@ -32,6 +32,8 @@
 
             <?php edit_post_link('Edit this entry','','.'); ?>
 
+            <?php  comments_template(); ?>
+
         </div>
     </section><!--end of #main-content-->
     <div class="col-lg-2">
