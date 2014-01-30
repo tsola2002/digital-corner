@@ -361,3 +361,91 @@ ol.commentlist li.thread-odd { }
 #submit-button input{
 
     }
+
+/*CONTACT FORM PAGE*/
+
+
+.form_info {
+       color: #555;
+       text-transform: uppercase;
+       font-size: 18px;
+       margin-bottom: 0px;
+       height: 30px;
+       margin-left: -14px;
+   }
+
+#ajax-contact-form input, #ajax-contact-form textarea {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    background: #eee2f7;
+    color: #555;
+    border: 0px none;
+    margin-bottom: 10px;
+    height: 30px;
+    font-weight: 400;
+    }
+
+#ajax-contact-form input:focus, #ajax-contact-form textarea:focus {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    background: #E9E7E7;
+    }
+
+#ajax-contact-form textarea {
+    background: #E9E7E7;
+    color: #555;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border: 0px none;
+    margin-bottom: 10px;
+    height: 150px;
+    font-weight: 400;
+}
+
+.required{
+    color: #b52026;
+}
+
+
+.btn.btn-danger, #ajax-contact-form input.cbtn {
+    background-color: #e74c3c;
+    -webkit-box-shadow: 0px 4px 0px 0px #be382a;
+    -moz-box-shadow: 0px 4px 0px 0px #be382a;
+    -o-box-shadow: 0px 4px 0px 0px #be382a;
+    box-shadow: 0px 4px 0px 0px #be382a;
+    color: #f7f3f7;
+    margin-left: 10px;
+    -webkit-transition: 0.25s ease-in;
+    -moz-transition: 0.25s ease-in;
+    -o-transition: 0.25s ease-in;
+    transition: 0.25s ease-in;
+    }
+
+.btn.btn-danger:hover, #ajax-contact-form input.cbtn:hover {
+    background-color: #791515;
+    -webkit-box-shadow: 0px 4px 0px 0px #be382a;
+    -moz-box-shadow: 0px 4px 0px 0px #be382a;
+    -o-box-shadow: 0px 4px 0px 0px #be382a;
+    box-shadow: 0px 4px 0px 0px #be382a;
+    color: #f7f3f7;
+    margin-left: 10px;
+    -webkit-transition: 0.25s ease-out;
+    -moz-transition: 0.25s ease-out;
+    -o-transition: 0.25s ease-out;
+    transition: 0.25s ease-out;
+    }
+
+
+
