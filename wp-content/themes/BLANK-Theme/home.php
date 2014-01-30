@@ -29,15 +29,13 @@
 
         <h2>Featured Widgets</h2>
         <ul>
+            <?php query_posts("posts_per_page=1&post_type=page&post_parent=157"); the_post(); ?>
             <li>
-                <h3>Super Sprocket</h3>
+                <h3><?php the_title(); ?></h3>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Amet dolor eius impedit labore optio quaerat velit veniam?
-                    Doloremque est eveniet exercitationem facere fugit iusto,
-                    maxime praesentium repudiandae, sapiente soluta, voluptates.</p>
-                <img src="_/img/sprocket.png" alt=""/>
-                <a class="btn btn-info" href="">View Product</a>
+                <?php the_excerpt(); ?>
+                <img src="<?php echo get_post_meta($post->ID, "product_regular", true); ?>" alt="Image of<?php the_title(); ?>" />
+                <a class="btn btn-info" href="<?php the_permalink(); ?>">View Product</a>
             </li>
         </ul>
     </section><!--end of #main-content-->
