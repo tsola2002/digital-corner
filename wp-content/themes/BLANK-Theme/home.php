@@ -34,7 +34,7 @@
                 <h3><?php the_title(); ?></h3>
 
                 <?php the_excerpt(); ?>
-                <img src="<?php echo get_post_meta($post->ID, "product-regular", true); ?>" alt="Image of<?php the_title(); ?>" />
+                <img src="<?php echo get_post_meta($post->ID, "product-large", true); ?>" alt="Image of<?php the_title(); ?>" />
                 <a class="btn btn-info" href="<?php the_permalink(); ?>">View Product</a>
             </li>
         </ul>
