@@ -22,8 +22,8 @@
                     <?php wp_reset_query(); ?>
                 </div><!--end of .widget-->
 
-                <div class="widget industry">
-                    <h4>Industry News</h4>
+
+
                     <!--conditional to check for fetch feed function-->
                     <?php if (function_exists('fetch_feed')) { ?>
                         <!--includes the files that enables rss feeds to work-->
@@ -53,14 +53,14 @@
                                     <p class="date"><?php echo $item->get_date('F j, Y'); ?></p>
                                     <h5><a href="<?php echo $item->get_permalink(); ?>"><?php echo $item->get_title(); ?></a></h5>
                                     <p><?php echo $item->get_content(); ?></p>
-                                </div>
+                                </div><!--end of .widget .industry1-->
 
                             <?php }
 
                         } ?>
 
                     <?php } ?>
-                </div><!--end of widget-->
+
 
                 <?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Sidebar Widgets')) : else : ?>
 
