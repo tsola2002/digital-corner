@@ -35,7 +35,16 @@
 
                 <?php the_excerpt(); ?>
                 <img src="<?php echo get_post_meta($post->ID, "product-regular", true); ?>" alt="Image of<?php the_title(); ?>" />
-                <a class="btn btn-info" href="<?php the_permalink(); ?>">View Product</a>
+                <a class="btn btn-danger" href="<?php the_permalink(); ?>">View Product</a>
+            </li>
+
+            <?php query_posts("posts_per_page=1&post_type=page&post_parent=93"); the_post(); ?>
+            <li>
+                <h3><?php the_title(); ?></h3>
+
+                <?php the_excerpt(); ?>
+                <img src="<?php echo get_post_meta($post->ID, "product-regular", true); ?>" alt="Image of<?php the_title(); ?>" />
+                <a class="btn btn-danger" href="<?php the_permalink(); ?>">View Product</a>
             </li>
         </ul>
     </section><!--end of #main-content-->
