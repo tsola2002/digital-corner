@@ -16,7 +16,7 @@
 
                     <?php query_posts("post_per_page=1"); the_post(); ?>
                     <div class="date"><?php the_date(); ?></div>
-                    <h5><a href="<?php the_permalink(); ?>"></a><?php the_title(); ?></h5>
+                    <h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
                     <p><?php the_excerpt(); ?></p>
 
                     <?php wp_reset_query(); ?>
