@@ -38,7 +38,7 @@
                 <a class="btn btn-danger" href="<?php the_permalink(); ?>">View Product</a>
             </li>
 
-            <?php query_posts("posts_per_page=1&post_type=page&post_parent=93"); the_post(); ?>
+            <?php query_posts("posts_per_page=1&post_type=page&post_parent=165"); the_post(); ?>
             <li>
                 <h3><?php the_title(); ?></h3>
 
