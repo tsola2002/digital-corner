@@ -15,45 +15,34 @@
 <?php get_sidebar(); ?>
 
     <section id="main-content" class="col col-lg-6">
-        <h1 class="giant">The Digital Realm</h1>
+        <p id="intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Aut deleniti ducimus fugiat libero nesciunt porro praesentium recusandae.
+            Ab assumenda deleniti, dolorum error iusto laboriosam libero nemo non possimus,
+            quasi repellendus!</p>
 
-        <div class="post">
+        <blockquote id="main-quote">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Beatae deleniti dicta dolor doloremque dolorum earum eius eum illo impedit in ipsam,
+            libero neque nisi nulla quaerat, rem tempore temporibus veniam.
+            <cite>Frankiln James, In too deep</cite>
+        </blockquote>
 
-            <h4><a href="#">The future of the digital realm</a></h4>
+        <h2>Featured Widgets</h2>
+        <ul>
+            <li>
+                <h3>Super Sprocket</h3>
 
-            <div class="meta">
-                <em>Posted on:</em> April 10th, 2010 &emsp; &emsp;
-                <em>by</em> Omatsola Sobotie
-            </div>
-
-            <div class="entry">
-                <p>Widgets might look easy to make, but they are anything but. The manufacturing of widgets can be bungled in any step of the process. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas [...]</p>
-            </div>
-
-            <a href="#">Continue Reading &rarr;</a>
-
-        </div><!--end of post1-->
-
-        <div class="post">
-
-            <h4><a href="#">Hello world!</a></h4>
-
-            <div class="meta">
-                <em>Posted on:</em> March 27th, 2010 &emsp; &emsp;
-                <em>by</em> Omatsola Isaac Sobotie
-            </div>
-            <div class="entry">
-                <p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
-            </div>
-
-            <a href="#">Continue Reading &rarr;</a>
-
-        </div><!--end of post2-->
-
-    </section><!--end of #main-content/ .col-lg6-->
-
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Amet dolor eius impedit labore optio quaerat velit veniam?
+                    Doloremque est eveniet exercitationem facere fugit iusto,
+                    maxime praesentium repudiandae, sapiente soluta, voluptates.</p>
+                <img src="_/img/sprocket.png" alt=""/>
+                <a class="btn btn-info" href="">View Product</a>
+            </li>
+        </ul>
+    </section><!--end of #main-content-->
     <div class="col-lg-2">
 
-    </div><!--end of col-lg-2-->
+    </div><!--end of .col-lg-2-->
 
 <?php get_footer(); ?>
