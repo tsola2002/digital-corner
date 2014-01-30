@@ -437,7 +437,7 @@ ol.commentlist li.thread-odd { }
     transition: 0.25s ease-in;
     }
 
-.btn.btn-danger:hover, #ajax-contact-form input.cbtn:hover {
+#ajax-contact-form input.cbtn:hover {
     background-color: #791515;
     -webkit-box-shadow: 0px 4px 0px 0px #be382a;
     -moz-box-shadow: 0px 4px 0px 0px #be382a;
