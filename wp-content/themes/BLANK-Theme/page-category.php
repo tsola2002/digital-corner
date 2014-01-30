@@ -40,7 +40,7 @@
 
         $link = get_permalink($pieces[1]);
         echo "<div class='product-group group'>";
-        echo "<h3><a href='$link'>" . $pieces[0] . "</a></h3>";
+        echo "<h3>" . $pieces[0] . "</h3>";
 
         //products will be published as pages & child pages of categories will be returned
         query_posts("posts_per_page=-1&post_type=page&post_parent=$pieces[1]");
