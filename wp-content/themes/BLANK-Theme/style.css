@@ -49,6 +49,10 @@ nav ul li a {
     background: #b52026;
     margin-bottom: 20px;
     position: relative;
+    -webkit-transition: 0.25s ease-in;
+    -moz-transition: 0.25s ease-in;
+    -o-transition: 0.25s ease-in;
+    transition: 0.25s ease-in;
 }
 nav ul li a span {
     position: absolute;
