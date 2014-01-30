@@ -49,6 +49,7 @@
                             foreach ($items as $item) { ?>
 
                                 <div class="widget industry">
+                                    <h4>Industry News</h4>
                                     <p class="date"><?php echo $item->get_date('F j, Y'); ?></p>
                                     <h5><a href="<?php echo $item->get_permalink(); ?>"><?php echo $item->get_title(); ?></a></h5>
                                     <p><?php echo $item->get_content(); ?></p>
