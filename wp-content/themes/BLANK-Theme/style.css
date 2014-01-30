@@ -423,7 +423,7 @@ ol.commentlist li.thread-odd { }
 }
 
 
-.btn.btn-danger, #ajax-contact-form input.cbtn {
+ #ajax-contact-form input.cbtn {
     background-color: #e74c3c;
     -webkit-box-shadow: 0px 4px 0px 0px #be382a;
     -moz-box-shadow: 0px 4px 0px 0px #be382a;
