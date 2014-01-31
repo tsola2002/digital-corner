@@ -50,7 +50,7 @@
 
 	<?php wp_head(); ?>
 
-    <!--<script src="<?php /*bloginfo('template_url'); */?>/js/jquery.hoverflow.min.js"></script>-->
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.hoverflow.min.js"></script>
     <script src="<?php bloginfo('template_url'); ?>/js/digital.js"></script>
 </head>
 

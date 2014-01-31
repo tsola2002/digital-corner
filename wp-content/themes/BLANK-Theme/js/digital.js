@@ -12,4 +12,23 @@ $("document").ready(function () {
     $("nav ul li a").append("<span>&nbsp</span>");
 
 
+    $("nav ul li a").hover(function(e) {
+
+        $(this)
+            .hoverFlow(e.type, { width: 400 }, 200)
+            .css('overflow', 'visible')
+            .find('span')
+            .hoverFlow(e.type, { width: 10 }, 200)
+
+    }, function(e) {
+
+        $(this)
+            .hoverFlow(e.type, { width: 375 }, 200)
+            .css('overflow', 'visible')
+            .find('span')
+            .hoverFlow(e.type, { width: 15 }, 200)
+
+    });
+
+
 });
