@@ -6,7 +6,7 @@
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1391161913117" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1391162122640" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1391082666546" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390498442752" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
@@ -95,8 +95,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="233" />
-    <option name="y" value="31" />
+    <option name="x" value="199" />
+    <option name="y" value="-10" />
     <option name="width" value="867" />
     <option name="height" value="707" />
   </component>
@@ -487,11 +487,15 @@
       <created>1391161917118</created>
       <updated>1391161917118</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="wordpress database backup plugin deleted">
+      <created>1391162125648</created>
+      <updated>1391162125648</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="233" y="31" width="867" height="707" extended-state="0" />
+    <frame x="199" y="-10" width="867" height="707" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -557,7 +561,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="wordpress database backup plugin added" />
+    <option name="LAST_COMMIT_MESSAGE" value="wordpress database backup plugin deleted" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -571,7 +575,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="styling of comments list[2]" />
     <MESSAGE value="styling of comments list[3]" />
     <MESSAGE value="styling of comments list[4]" />
     <MESSAGE value="styling of comments list[5]" />
@@ -596,6 +599,7 @@
     <MESSAGE value="sidebar styles fixed[4]" />
     <MESSAGE value="category styles fixed[4]" />
     <MESSAGE value="wordpress database backup plugin added" />
+    <MESSAGE value="wordpress database backup plugin deleted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
