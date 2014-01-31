@@ -15,7 +15,7 @@ $("document").ready(function () {
     $("nav ul li a").hover(function(e) {
 
         $(this)
-            .hoverFlow(e.type, { width: 400 }, 200)
+            .hoverFlow(e.type, { width: 380 }, 200)
             .css('overflow', 'visible')
             .find('span')
             .hoverFlow(e.type, { width: 10 }, 200)
