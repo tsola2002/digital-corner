@@ -9,6 +9,7 @@
 
 $("document").ready(function () {
 
-    $("body").css("background", "red");
+    $("nav ul li a").append("<span>&nbsp</span>");
+
 
 });
