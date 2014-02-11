@@ -54,7 +54,9 @@ nav ul li a {
     -o-transition: 0.25s ease-in;
     transition: 0.25s ease-in;
 }
-nav ul li a span {
+
+
+/*nav ul li a span {
     position: absolute;
     background-color: #b52026;
     right: 100%;
@@ -68,36 +70,53 @@ nav ul li a span {
 nav ul li a:hover span {
     background-image: url('images/nav_shadow.png');
     background-color: #303338;
-}
-nav ul li:nth-child(2) a,
-nav ul li:nth-child(2) a span {
+}*/
+
+/*
+nav ul li:nth-child(2) a span
+nav ul li:nth-child(3) a span
+nav ul li:nth-child(4) a span
+nav ul li:nth-child(2) a:hover span
+nav ul li:nth-child(3) a:hover span,
+nav ul li:nth-child(4) a:hover span
+*/
+
+
+nav ul li:nth-child(2) a{
     background-color: #791515;
 }
-nav ul li:nth-child(2) a:hover span {
+/*nav ul li:nth-child(2) a:hover span {
     background-image: url('images/nav_shadow.png');
     background-color: #303338;
-}
-nav ul li:nth-child(3) a,
-nav ul li:nth-child(3) a span {
+}*/
+nav ul li:nth-child(3) a{
     background-color: #231818;
 }
+
+nav ul li:nth-child(4) a{
+    background-color: #791515;
+}
+
 nav ul li a:hover,
 nav ul li:nth-child(2) a:hover,
-nav ul li:nth-child(2) a:hover span,
 nav ul li:nth-child(3) a:hover,
-nav ul li:nth-child(3) a:hover span {
+nav ul li:nth-child(4) a:hover{
     text-decoration: none;
     color: white;
     background: #303338;
 }
+/*
 nav ul li:nth-child(2) a:hover span {
     background-image: url('images/nav_shadow.png');
     background-color: #303338;
-}
-nav ul li:nth-child(3) a:hover span {
+}*/
+
+
+/*nav ul li:nth-child(3) a:hover span {
     background-image: url('images/nav_shadow.png');
     background-color: #303338;
-}
+}*/
+
 .widget {
     background: url("images/widget_shadow.png") no-repeat top right;
     margin: 60px 0 0 -20px;

@@ -25,22 +25,22 @@
     <?php
         //grap custom field values
         $categoriesCF = get_post_meta($post->ID, "categories", true);
-        // example value = "Sprockets|157,Sprunklers|165"
+        // example value = "Sprockets|31,Sprunklers|33"
 
         $allCategories = explode(",", $categoriesCF);
-        // $allCategories[0] = "Sprockets|157"
-        // $allCategories[1] = "Sprunklers|165"
+        // $allCategories[0] = "Sprockets|31"
+        // $allCategories[1] = "Sprunklers|33"
 
     //loop through items twice
     foreach ($allCategories as $category) {
 
         $pieces = explode("|", $category);
         // $pieces[0] = "Sprockets"
-        // $pieces[1] = 157
+        // $pieces[1] = 31
 
         $link = get_permalink($pieces[1]);
         echo "<div class='product-group group'>";
-        echo "<h3>" . $pieces[0] . "</h3>";
+        echo "<h3><a href='$link'>" . $pieces[0] . "</a></h3>";
 
         //products will be published as pages & child pages of categories will be returned
         query_posts("posts_per_page=-1&post_type=page&post_parent=$pieces[1]");
@@ -49,7 +49,7 @@
         //based on the results start a standard loop
         while (have_posts()) : the_post(); ?>
             <div class="col col-lg-3">
-                <a href="<?php the_permalink(); ?>" class="product-jump" title="<?php echo "$" . get_post_meta($post->ID, "price", true); ?>" data-large="<?php /*get_post_meta($post->ID, "product_image", true);*/ ?>">
+                <a href="<?php the_permalink(); ?>" class="product-jump" title="<?php echo "$" . get_post_meta($post->ID, "price", true); ?>" data-large="<?php get_post_meta($post->ID, "product_image", true); ?>">
 
                     <?php echo "<img src='" . get_post_meta($post->ID, "product-regular", true) . "' />"; ?>
                     <span class="product-title"><?php the_title(); ?></span>

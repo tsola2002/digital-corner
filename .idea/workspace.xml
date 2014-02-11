@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="">
+    <list default="true" id="0829acba-5df3-46f7-9c23-46073a4ceef8" name="Default" comment="hover flow effect added[fixed]">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/fonts/glyphicons-halflings-regular.svg" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\digital-corner\wp-content\plugins\wp-db-backup.2.2.4.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/js/digital.js" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/js/digital.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="digital-corner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1391169676522" ignored="false" />
+    <file path="/Dummy.txt" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1392142303282" ignored="false" />
     <file path="/style.css" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1391082666546" ignored="false" />
     <file path="/header.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1391168188126" ignored="false" />
     <file path="/index.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1388862339585" ignored="false" />
@@ -18,7 +26,7 @@
     <file path="/page-category.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390395386034" ignored="false" />
     <file path="/page-bloghome.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390491301870" ignored="false" />
     <file path="/comments.php" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1390990370976" ignored="false" />
-    <file path="/digital.js" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1391169680560" ignored="false" />
+    <file path="/digital.js" changelist="0829acba-5df3-46f7-9c23-46073a4ceef8" time="1392147514497" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,30 +46,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="digital.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/js/digital.js">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="43" selection-start="357" selection-end="357" vertical-scroll-proportion="0.3090909">
-              <folding>
-                <element signature="e#0#165#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="2130" selection-end="2130" vertical-scroll-proportion="-15.230769">
+            <state line="84" column="24" selection-start="1611" selection-end="1635" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
+      <file leaf-file-name="digital.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/js/digital.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="14" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.0">
+            <state line="21" column="43" selection-start="795" selection-end="795" vertical-scroll-proportion="0.53235906">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../diamond/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="82" selection-start="1460" selection-end="1479" vertical-scroll-proportion="-10.307693">
               <folding />
             </state>
           </provider>
@@ -85,21 +91,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_10_external/WidgetCorpTheme-1/sidebar.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-bloghome.php" />
         <option value="$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 3/03_17_comment/WidgetCorpTheme-1/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/comments.php" />
         <option value="$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 4/04_02_javascript1/WidgetCorpTheme-1/home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php" />
+        <option value="$PROJECT_DIR$/../diamond/index.html" />
+        <option value="$PROJECT_DIR$/../diamond/blog_category.html" />
+        <option value="$PROJECT_DIR$/../diamond/blog_product_page.html" />
+        <option value="$PROJECT_DIR$/../diamond/blog_single.html" />
+        <option value="$PROJECT_DIR$/../diamond/blog_home.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/BLANK-Theme/js/digital.js" />
       </list>
     </option>
@@ -210,43 +216,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="digital-corner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="digital-corner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BLANK-Theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
   </component>
   <component name="PublishConfig">
@@ -272,6 +252,9 @@
           </mappings>
         </serverdata>
       </server>
+      <server id="ee0cfba3-7e9c-4e2a-ad88-52e6992f9486">
+        <serverdata />
+      </server>
       <server id="fa5b9f9b-6a73-4286-84e6-65c2f22d6538">
         <serverdata>
           <mappings>
@@ -283,9 +266,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\digital-corner\wp-content\themes\BLANK-Theme" />
       <recent name="C:\xampp\htdocs\digital-corner\wp-content\themes\BLANK-Theme\js" />
       <recent name="C:\xampp\htdocs\digital-corner\wp-content\themes\BLANK-Theme\images" />
-      <recent name="C:\xampp\htdocs\digital-corner\wp-content\themes\BLANK-Theme" />
       <recent name="C:\xampp\htdocs\digital-corner\wp-content\themes\BLANK-Theme\css" />
       <recent name="C:\xampp\htdocs\digital-corner\wp-content\themes" />
     </key>
@@ -575,20 +558,24 @@
       <created>1391169680357</created>
       <updated>1391169680357</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="hover flow effect added[fixed]">
+      <created>1391169997161</created>
+      <updated>1391169997161</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17908083" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24968944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17828201" sideWeight="0.9207607" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17423014" sideWeight="0.82091916" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2617504" sideWeight="0.82091916" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -598,6 +585,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -645,7 +633,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="hover flow effect added" />
+    <option name="LAST_COMMIT_MESSAGE" value="hover flow effect added[fixed]" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -659,7 +647,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="dynamic product added to homepage[fixed2]" />
     <MESSAGE value="dynamic product added to homepage[fixed3]" />
     <MESSAGE value="dynamic product added to homepage[fixed4]" />
     <MESSAGE value="dynamic product added to homepage[fixed5]" />
@@ -684,122 +671,121 @@
     <MESSAGE value="js testing" />
     <MESSAGE value="span tags added through jquery" />
     <MESSAGE value="hover flow effect added" />
+    <MESSAGE value="hover flow effect added[fixed]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/images/prod-sprocketizer.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/images/prod-supersprocket-large.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 4/04_02_javascript1/WidgetCorpTheme-1/home.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/js/jquery.hoverflow.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="71" selection-start="817" selection-end="817" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-bloghome.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="3.2307692">
-          <folding>
-            <element signature="e#147#185#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/inc/meta.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="69" selection-start="304" selection-end="359" vertical-scroll-proportion="-5.923077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="81" selection-start="535" selection-end="535" vertical-scroll-proportion="-0.89222616">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="78" selection-start="1453" selection-end="1453" vertical-scroll-proportion="-8.692307">
+        <state line="45" column="98" selection-start="1673" selection-end="1673" vertical-scroll-proportion="0.4370861">
           <folding>
             <element signature="e#6#127#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 4/04_02_javascript1/WidgetCorpTheme-1/page-category.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-bloghome.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="52" selection-start="652" selection-end="652" vertical-scroll-proportion="-13.730769">
+        <state line="13" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="-0.69527894">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/page-category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="36" selection-start="946" selection-end="946" vertical-scroll-proportion="0.15482695">
+        <state line="38" column="26" selection-start="810" selection-end="810" vertical-scroll-proportion="0.37527594">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/functions.php">
+    <entry file="file://$PROJECT_DIR$/../diamond/blog_contact_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="538" selection-end="538" vertical-scroll-proportion="-12.423077">
+        <state line="30" column="25" selection-start="1126" selection-end="1570" vertical-scroll-proportion="0.90066224">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Lynda - WordPress 3.0 - Creating and Editing Custom Themes/Exercise Files/Ex_Files_WP3_Cust_Themes/Exercise Files/CH 4/04_04_plugins/WidgetCorpTheme-1/header.php">
+    <entry file="file://$PROJECT_DIR$/../diamond/blog_category.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="79" selection-start="1508" selection-end="1670" vertical-scroll-proportion="0.50086355">
+        <state line="30" column="25" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.6754967">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
+    <entry file="file://$PROJECT_DIR$/../diamond/blog_product_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="14" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.0">
+        <state line="30" column="25" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.78807944">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/js/jquery.hoverflow.min.js">
+    <entry file="file://$PROJECT_DIR$/../diamond/blog_single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="25" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.37527594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../diamond/blog_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="86" selection-start="1163" selection-end="1209" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2226" column="7" selection-start="42797" selection-end="42797" vertical-scroll-proportion="0.48237884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="2130" selection-end="2130" vertical-scroll-proportion="-15.230769">
+        <state line="34" column="0" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.82560706">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="24" selection-start="1611" selection-end="1635" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../diamond/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="82" selection-start="1460" selection-end="1479" vertical-scroll-proportion="-10.307693">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/BLANK-Theme/js/digital.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="43" selection-start="357" selection-end="357" vertical-scroll-proportion="0.3090909">
-          <folding>
-            <element signature="e#0#165#0" expanded="false" />
-          </folding>
+        <state line="21" column="43" selection-start="795" selection-end="795" vertical-scroll-proportion="0.53235906">
+          <folding />
         </state>
       </provider>
     </entry>
