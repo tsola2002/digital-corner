@@ -22,6 +22,13 @@
 
 
 <section id="main-content" class="col col-lg-6">
+    <div class="breadcrumbs">
+        <?php if(function_exists('bcn_display'))
+        {
+            bcn_display();
+        }?>
+    </div><!--  end of .breadcrumb  -->
+
     <?php
         //grap custom field values
         $categoriesCF = get_post_meta($post->ID, "categories", true);

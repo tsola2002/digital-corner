@@ -11,6 +11,14 @@
 <?php get_sidebar(); the_post(); ?>
 
 <section id="main-content" class="col col-lg-6 col-lg-offset-2">
+
+    <div class="breadcrumbs">
+        <?php if(function_exists('bcn_display'))
+        {
+            bcn_display();
+        }?>
+    </div><!--end of breadcrumb-->
+
     <h2 class="meta"><?php the_title(); ?></h2>
 
     <div class="product-info-box">
